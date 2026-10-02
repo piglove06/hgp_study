@@ -1,0 +1,3 @@
+I'll start by reading the memory file to check what's already been covered.3회차 브리핑을 푸시로 전송했습니다.
+
+구성: 기본지식 2개(사전학습→SFT→RLHF 3단계 / MoE 전문가 혼합), 논문 2개(SP³O 가치 평탄화, XConf 신뢰도 추정), 트렌드 2개(Edge0-35B-A3B 스트리밍 MoE, Spark-X2.5-4B). 가장 눈여겨볼 건 35B 모델을 활성 메모리 2.9GiB로 돌리는 Edge0로, 8GB 노트북 환경에 직결됩니다. 지난 회차 후속이던 EXAONE 소형·Qwen3.8 소형 라인업은 둘 다 "미공개/건너뜀"으로 확인되어 한 줄씩만 정리했고, 기록 파일도 갱신했습니다.
